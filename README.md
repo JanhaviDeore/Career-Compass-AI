@@ -1,3 +1,9 @@
+<h1 align="center">🚀 Career Compass AI</h1>
+
+<p align="center">
+AI-Powered Career Guidance Platform using React, Node.js, FastAPI & Machine Learning
+</p>
+
 # Career Compass AI
 
 AI-powered career recommendation platform using React, Node.js, MongoDB, and Machine Learning.
