@@ -1,0 +1,354 @@
+title,category,description,skills,salaryRange,roadmap,logical,creative,technical,social,leadership
+UI/UX Designer,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-6 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,3,9,3,5,2
+Graphic Designer,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-8 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,4,6,4,4
+Animator,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-10 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,3,6,4,4
+Illustrator,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-12 LPA,Prepare exams|Subject mastery|Field training|Service role,7,3,4,7,7
+Fashion Designer,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-14 LPA,Learn programming|Projects|Internship|Specialize,7,5,9,3,5
+Industrial Designer,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-16 LPA,Pre-reqs|Clinical training|Certification|Practice,6,4,6,8,5
+Game Designer,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-12 LPA,Law basics|Internship|Court practice|Specialize,7,4,3,7,7
+3D Artist,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-14 LPA,Practice content|Portfolio|Internship|Publish,3,9,3,7,4
+Art Director,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-16 LPA,Learn business|Projects|Internship|Role growth,6,4,6,7,6
+Photographer,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-18 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,5,5,3,9,5
+Interior Designer,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-10 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,3,4,3
+Product Designer,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-12 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,3,7,4,3
+Motion Designer,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-8 LPA,Learn finance basics|Certifications|Internship|Analyst role,8,3,5,5,4
+Visual Designer,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-10 LPA,Prepare exams|Subject mastery|Field training|Service role,6,4,4,6,8
+Brand Designer,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-12 LPA,Learn programming|Projects|Internship|Specialize,7,4,9,3,4
+Creative Director,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-14 LPA,Pre-reqs|Clinical training|Certification|Practice,7,4,5,9,5
+Concept Artist,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-16 LPA,Law basics|Internship|Court practice|Specialize,6,5,3,6,8
+Set Designer,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-18 LPA,Practice content|Portfolio|Internship|Publish,3,8,4,7,3
+Textile Designer,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-14 LPA,Learn business|Projects|Internship|Role growth,7,4,5,8,6
+Jewelry Designer,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-16 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,6,3,8,6
+Exhibition Designer,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-8 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,4,4,2
+Storyboard Artist,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-10 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,9,3,6,5,3
+Comic Artist,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-12 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,4,5,4,5
+Surface Pattern Designer,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-14 LPA,Prepare exams|Subject mastery|Field training|Service role,6,3,5,6,7
+Landscape Designer,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-10 LPA,Learn programming|Projects|Internship|Specialize,8,4,9,4,4
+Furniture Designer,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-12 LPA,Pre-reqs|Clinical training|Certification|Practice,6,5,5,8,6
+Makeup Artist,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-14 LPA,Law basics|Internship|Court practice|Specialize,6,4,4,6,7
+Stylist,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-16 LPA,Practice content|Portfolio|Internship|Publish,4,8,3,8,3
+Curator,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-18 LPA,Learn business|Projects|Internship|Role growth,6,5,5,7,7
+Art Therapist,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-20 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,5,4,8,5
+Typography Designer,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-6 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,3,9,3,5,2
+Packaging Designer,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-8 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,4,6,4,4
+Colorist,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-10 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,3,6,4,4
+VFX Artist,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-12 LPA,Prepare exams|Subject mastery|Field training|Service role,7,3,4,7,7
+Character Designer,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-14 LPA,Learn programming|Projects|Internship|Specialize,7,5,9,3,5
+Digital Sculptor,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-16 LPA,Pre-reqs|Clinical training|Certification|Practice,6,4,6,8,5
+Ceramic Artist,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-12 LPA,Law basics|Internship|Court practice|Specialize,7,4,3,7,7
+Glass Artist,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-14 LPA,Practice content|Portfolio|Internship|Publish,3,9,3,7,4
+Printmaker,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-16 LPA,Learn business|Projects|Internship|Role growth,6,4,6,7,6
+Calligrapher,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-18 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,5,5,3,9,5
+Creative Technologist,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-10 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,3,4,3
+Biologist,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-12 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,3,7,4,3
+Physicist,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-8 LPA,Learn finance basics|Certifications|Internship|Analyst role,8,3,5,5,4
+Chemist,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-10 LPA,Prepare exams|Subject mastery|Field training|Service role,6,4,4,6,8
+Microbiologist,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-12 LPA,Learn programming|Projects|Internship|Specialize,7,4,9,3,4
+Environmental Scientist,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-14 LPA,Pre-reqs|Clinical training|Certification|Practice,7,4,5,9,5
+Astrophysicist,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-16 LPA,Law basics|Internship|Court practice|Specialize,6,5,3,6,8
+Geneticist,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-18 LPA,Practice content|Portfolio|Internship|Publish,3,8,4,7,3
+Geologist,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-14 LPA,Learn business|Projects|Internship|Role growth,7,4,5,8,6
+Materials Scientist,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-16 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,6,3,8,6
+Botanist,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-8 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,4,4,2
+Zoologist,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-10 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,9,3,6,5,3
+Forensic Scientist,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-12 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,4,5,4,5
+Food Scientist,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-14 LPA,Prepare exams|Subject mastery|Field training|Service role,6,3,5,6,7
+Meteorologist,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-10 LPA,Learn programming|Projects|Internship|Specialize,8,4,9,4,4
+Marine Biologist,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-12 LPA,Pre-reqs|Clinical training|Certification|Practice,6,5,5,8,6
+Neuroscientist,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-14 LPA,Law basics|Internship|Court practice|Specialize,6,4,4,6,7
+Biochemist,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-16 LPA,Practice content|Portfolio|Internship|Publish,4,8,3,8,3
+Ecologist,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-18 LPA,Learn business|Projects|Internship|Role growth,6,5,5,7,7
+Nanotechnologist,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-20 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,5,4,8,5
+Biostatistician,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-6 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,3,9,3,5,2
+Immunologist,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-8 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,4,6,4,4
+Pharmacologist,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-10 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,3,6,4,4
+Climate Scientist,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-12 LPA,Prepare exams|Subject mastery|Field training|Service role,7,3,4,7,7
+Seismologist,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-14 LPA,Learn programming|Projects|Internship|Specialize,7,5,9,3,5
+Hydrologist,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-16 LPA,Pre-reqs|Clinical training|Certification|Practice,6,4,6,8,5
+Oceanographer,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-12 LPA,Law basics|Internship|Court practice|Specialize,7,4,3,7,7
+Toxicologist,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-14 LPA,Practice content|Portfolio|Internship|Publish,3,9,3,7,4
+Virologist,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-16 LPA,Learn business|Projects|Internship|Role growth,6,4,6,7,6
+Entomologist,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-18 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,5,5,3,9,5
+Paleontologist,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-10 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,3,4,3
+Astrobiologist,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-12 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,3,7,4,3
+Bioinformatician,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-8 LPA,Learn finance basics|Certifications|Internship|Analyst role,8,3,5,5,4
+Geophysicist,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-10 LPA,Prepare exams|Subject mastery|Field training|Service role,6,4,4,6,8
+Soil Scientist,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-12 LPA,Learn programming|Projects|Internship|Specialize,7,4,9,3,4
+Wildlife Biologist,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-14 LPA,Pre-reqs|Clinical training|Certification|Practice,7,4,5,9,5
+Lab Researcher,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-16 LPA,Law basics|Internship|Court practice|Specialize,6,5,3,6,8
+Bank Teller,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-18 LPA,Practice content|Portfolio|Internship|Publish,3,8,4,7,3
+Financial Analyst,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-14 LPA,Learn business|Projects|Internship|Role growth,7,4,5,8,6
+Risk Analyst,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-16 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,6,3,8,6
+Loan Officer,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-8 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,4,4,2
+Investment Advisor,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-10 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,9,3,6,5,3
+Account Manager,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-12 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,4,5,4,5
+Wealth Manager,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-14 LPA,Prepare exams|Subject mastery|Field training|Service role,6,3,5,6,7
+Credit Analyst,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-10 LPA,Learn programming|Projects|Internship|Specialize,8,4,9,4,4
+Treasury Analyst,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-12 LPA,Pre-reqs|Clinical training|Certification|Practice,6,5,5,8,6
+Branch Manager,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-14 LPA,Law basics|Internship|Court practice|Specialize,6,4,4,6,7
+Insurance Advisor,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-16 LPA,Practice content|Portfolio|Internship|Publish,4,8,3,8,3
+Portfolio Manager,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-18 LPA,Learn business|Projects|Internship|Role growth,6,5,5,7,7
+Fraud Analyst,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-20 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,5,4,8,5
+Mortgage Consultant,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-6 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,3,9,3,5,2
+Relationship Manager,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-8 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,4,6,4,4
+KYC Analyst,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-10 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,3,6,4,4
+Compliance Analyst,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-12 LPA,Prepare exams|Subject mastery|Field training|Service role,7,3,4,7,7
+Retail Banker,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-14 LPA,Learn programming|Projects|Internship|Specialize,7,5,9,3,5
+Investment Banker,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-16 LPA,Pre-reqs|Clinical training|Certification|Practice,6,4,6,8,5
+Equity Research Analyst,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-12 LPA,Law basics|Internship|Court practice|Specialize,7,4,3,7,7
+Debt Recovery Officer,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-14 LPA,Practice content|Portfolio|Internship|Publish,3,9,3,7,4
+Credit Manager,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-16 LPA,Learn business|Projects|Internship|Role growth,6,4,6,7,6
+AML Analyst,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-18 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,5,5,3,9,5
+Forex Trader,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-10 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,3,4,3
+Financial Planner,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-12 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,3,7,4,3
+Bank Operations Manager,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-8 LPA,Learn finance basics|Certifications|Internship|Analyst role,8,3,5,5,4
+Loan Underwriter,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-10 LPA,Prepare exams|Subject mastery|Field training|Service role,6,4,4,6,8
+HNI Relationship Manager,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-12 LPA,Learn programming|Projects|Internship|Specialize,7,4,9,3,4
+Reconciliation Specialist,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-14 LPA,Pre-reqs|Clinical training|Certification|Practice,7,4,5,9,5
+Audit Officer,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-16 LPA,Law basics|Internship|Court practice|Specialize,6,5,3,6,8
+Credit Card Analyst,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-18 LPA,Practice content|Portfolio|Internship|Publish,3,8,4,7,3
+Payment Operations Analyst,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-14 LPA,Learn business|Projects|Internship|Role growth,7,4,5,8,6
+Underwriting Analyst,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-16 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,6,3,8,6
+Fund Accountant,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-8 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,4,4,2
+Corporate Finance Analyst,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-10 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,9,3,6,5,3
+Civil Services Officer,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-12 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,4,5,4,5
+Police Officer,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-14 LPA,Prepare exams|Subject mastery|Field training|Service role,6,3,5,6,7
+Administrative Officer,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-10 LPA,Learn programming|Projects|Internship|Specialize,8,4,9,4,4
+Public Policy Analyst,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-12 LPA,Pre-reqs|Clinical training|Certification|Practice,6,5,5,8,6
+Revenue Officer,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-14 LPA,Law basics|Internship|Court practice|Specialize,6,4,4,6,7
+Foreign Service Officer,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-16 LPA,Practice content|Portfolio|Internship|Publish,4,8,3,8,3
+Municipal Officer,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-18 LPA,Learn business|Projects|Internship|Role growth,6,5,5,7,7
+Customs Officer,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-20 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,5,4,8,5
+Election Officer,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-6 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,3,9,3,5,2
+Forest Officer,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-8 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,4,6,4,4
+Defence Officer,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-10 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,3,6,4,4
+Public Relations Officer,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-12 LPA,Prepare exams|Subject mastery|Field training|Service role,7,3,4,7,7
+Tax Officer,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-14 LPA,Learn programming|Projects|Internship|Specialize,7,5,9,3,5
+Labour Officer,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-16 LPA,Pre-reqs|Clinical training|Certification|Practice,6,4,6,8,5
+Transport Officer,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-12 LPA,Law basics|Internship|Court practice|Specialize,7,4,3,7,7
+Health Inspector,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-14 LPA,Practice content|Portfolio|Internship|Publish,3,9,3,7,4
+Urban Planner,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-16 LPA,Learn business|Projects|Internship|Role growth,6,4,6,7,6
+Social Welfare Officer,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-18 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,5,5,3,9,5
+Block Development Officer,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-10 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,3,4,3
+Rural Development Officer,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-12 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,3,7,4,3
+Food Inspector,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-8 LPA,Learn finance basics|Certifications|Internship|Analyst role,8,3,5,5,4
+Excise Officer,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-10 LPA,Prepare exams|Subject mastery|Field training|Service role,6,4,4,6,8
+Intelligence Officer,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-12 LPA,Learn programming|Projects|Internship|Specialize,7,4,9,3,4
+Fire Officer,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-14 LPA,Pre-reqs|Clinical training|Certification|Practice,7,4,5,9,5
+Panchayat Secretary,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-16 LPA,Law basics|Internship|Court practice|Specialize,6,5,3,6,8
+District Collector,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-18 LPA,Practice content|Portfolio|Internship|Publish,3,8,4,7,3
+Sub-Divisional Officer,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-14 LPA,Learn business|Projects|Internship|Role growth,7,4,5,8,6
+Tehsildar,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-16 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,6,3,8,6
+Land Records Officer,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-8 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,4,4,2
+Protocol Officer,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-10 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,9,3,6,5,3
+Disaster Management Officer,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-12 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,4,5,4,5
+Public Information Officer,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-14 LPA,Prepare exams|Subject mastery|Field training|Service role,6,3,5,6,7
+Registry Officer,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-10 LPA,Learn programming|Projects|Internship|Specialize,8,4,9,4,4
+Census Officer,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-12 LPA,Pre-reqs|Clinical training|Certification|Practice,6,5,5,8,6
+Planning Officer,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-14 LPA,Law basics|Internship|Court practice|Specialize,6,4,4,6,7
+Software Developer,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-16 LPA,Practice content|Portfolio|Internship|Publish,4,8,3,8,3
+Data Engineer,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-18 LPA,Learn business|Projects|Internship|Role growth,6,5,5,7,7
+Cybersecurity Analyst,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-20 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,5,4,8,5
+Cloud Engineer,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-6 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,3,9,3,5,2
+Mobile App Developer,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-8 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,4,6,4,4
+DevOps Engineer,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-10 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,3,6,4,4
+AI Engineer,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-12 LPA,Prepare exams|Subject mastery|Field training|Service role,7,3,4,7,7
+ML Engineer,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-14 LPA,Learn programming|Projects|Internship|Specialize,7,5,9,3,5
+Backend Engineer,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-16 LPA,Pre-reqs|Clinical training|Certification|Practice,6,4,6,8,5
+Frontend Engineer,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-12 LPA,Law basics|Internship|Court practice|Specialize,7,4,3,7,7
+Full Stack Developer,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-14 LPA,Practice content|Portfolio|Internship|Publish,3,9,3,7,4
+QA Engineer,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-16 LPA,Learn business|Projects|Internship|Role growth,6,4,6,7,6
+Database Administrator,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-18 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,5,5,3,9,5
+Network Engineer,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-10 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,3,4,3
+Systems Analyst,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-12 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,3,7,4,3
+Site Reliability Engineer,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-8 LPA,Learn finance basics|Certifications|Internship|Analyst role,8,3,5,5,4
+Game Programmer,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-10 LPA,Prepare exams|Subject mastery|Field training|Service role,6,4,4,6,8
+Embedded Engineer,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-12 LPA,Learn programming|Projects|Internship|Specialize,7,4,9,3,4
+Data Scientist,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-14 LPA,Pre-reqs|Clinical training|Certification|Practice,7,4,5,9,5
+Solutions Architect,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-16 LPA,Law basics|Internship|Court practice|Specialize,6,5,3,6,8
+Blockchain Developer,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-18 LPA,Practice content|Portfolio|Internship|Publish,3,8,4,7,3
+AR/VR Developer,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-14 LPA,Learn business|Projects|Internship|Role growth,7,4,5,8,6
+Robotics Engineer,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-16 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,6,3,8,6
+IoT Engineer,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-8 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,4,4,2
+Platform Engineer,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-10 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,9,3,6,5,3
+Technical Support Engineer,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-12 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,4,5,4,5
+Security Engineer,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-14 LPA,Prepare exams|Subject mastery|Field training|Service role,6,3,5,6,7
+Product Engineer,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-10 LPA,Learn programming|Projects|Internship|Specialize,8,4,9,4,4
+Release Engineer,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-12 LPA,Pre-reqs|Clinical training|Certification|Practice,6,5,5,8,6
+Build Engineer,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-14 LPA,Law basics|Internship|Court practice|Specialize,6,4,4,6,7
+Data Architect,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-16 LPA,Practice content|Portfolio|Internship|Publish,4,8,3,8,3
+ETL Developer,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-18 LPA,Learn business|Projects|Internship|Role growth,6,5,5,7,7
+Automation Engineer,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-20 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,5,4,8,5
+Firmware Engineer,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-6 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,3,9,3,5,2
+IT Project Manager,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-8 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,4,6,4,4
+UX Engineer,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-10 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,3,6,4,4
+Nurse,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-12 LPA,Prepare exams|Subject mastery|Field training|Service role,7,3,4,7,7
+Pharmacist,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-14 LPA,Learn programming|Projects|Internship|Specialize,7,5,9,3,5
+Physiotherapist,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-16 LPA,Pre-reqs|Clinical training|Certification|Practice,6,4,6,8,5
+Medical Lab Technologist,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-12 LPA,Law basics|Internship|Court practice|Specialize,7,4,3,7,7
+Radiology Technologist,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-14 LPA,Practice content|Portfolio|Internship|Publish,3,9,3,7,4
+Public Health Officer,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-16 LPA,Learn business|Projects|Internship|Role growth,6,4,6,7,6
+Clinical Psychologist,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-18 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,5,5,3,9,5
+Dietitian,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-10 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,3,4,3
+Occupational Therapist,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-12 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,3,7,4,3
+Emergency Medical Technician,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-8 LPA,Learn finance basics|Certifications|Internship|Analyst role,8,3,5,5,4
+Dentist,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-10 LPA,Prepare exams|Subject mastery|Field training|Service role,6,4,4,6,8
+Optometrist,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-12 LPA,Learn programming|Projects|Internship|Specialize,7,4,9,3,4
+Speech Therapist,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-14 LPA,Pre-reqs|Clinical training|Certification|Practice,7,4,5,9,5
+Paramedic,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-16 LPA,Law basics|Internship|Court practice|Specialize,6,5,3,6,8
+Veterinarian,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-18 LPA,Practice content|Portfolio|Internship|Publish,3,8,4,7,3
+Healthcare Administrator,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-14 LPA,Learn business|Projects|Internship|Role growth,7,4,5,8,6
+Mental Health Counselor,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-16 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,6,3,8,6
+Anesthetist,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-8 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,4,4,2
+Surgeon,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-10 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,9,3,6,5,3
+General Physician,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-12 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,4,5,4,5
+Pediatrician,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-14 LPA,Prepare exams|Subject mastery|Field training|Service role,6,3,5,6,7
+Cardiologist,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-10 LPA,Learn programming|Projects|Internship|Specialize,8,4,9,4,4
+Dermatologist,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-12 LPA,Pre-reqs|Clinical training|Certification|Practice,6,5,5,8,6
+Neurologist,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-14 LPA,Law basics|Internship|Court practice|Specialize,6,4,4,6,7
+Oncologist,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-16 LPA,Practice content|Portfolio|Internship|Publish,4,8,3,8,3
+Geriatric Care Specialist,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-18 LPA,Learn business|Projects|Internship|Role growth,6,5,5,7,7
+Midwife,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-20 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,5,4,8,5
+Respiratory Therapist,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-6 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,3,9,3,5,2
+Medical Coder,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-8 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,4,6,4,4
+Health Informatics Specialist,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-10 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,3,6,4,4
+Orthopedic Technician,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-12 LPA,Prepare exams|Subject mastery|Field training|Service role,7,3,4,7,7
+Clinical Pharmacologist,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-14 LPA,Learn programming|Projects|Internship|Specialize,7,5,9,3,5
+Nutrition Scientist,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-16 LPA,Pre-reqs|Clinical training|Certification|Practice,6,4,6,8,5
+Lab Manager,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-12 LPA,Law basics|Internship|Court practice|Specialize,7,4,3,7,7
+Physician Assistant,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-14 LPA,Practice content|Portfolio|Internship|Publish,3,9,3,7,4
+Corporate Lawyer,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-16 LPA,Learn business|Projects|Internship|Role growth,6,4,6,7,6
+Legal Advisor,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-18 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,5,5,3,9,5
+Public Prosecutor,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-10 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,3,4,3
+Compliance Officer,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-12 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,3,7,4,3
+IP Lawyer,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-8 LPA,Learn finance basics|Certifications|Internship|Analyst role,8,3,5,5,4
+Court Reporter,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-10 LPA,Prepare exams|Subject mastery|Field training|Service role,6,4,4,6,8
+Tax Consultant,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-12 LPA,Learn programming|Projects|Internship|Specialize,7,4,9,3,4
+Arbitration Specialist,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-14 LPA,Pre-reqs|Clinical training|Certification|Practice,7,4,5,9,5
+Legal Researcher,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-16 LPA,Law basics|Internship|Court practice|Specialize,6,5,3,6,8
+Company Secretary,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-18 LPA,Practice content|Portfolio|Internship|Publish,3,8,4,7,3
+Notary,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-14 LPA,Learn business|Projects|Internship|Role growth,7,4,5,8,6
+Labor Law Advisor,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-16 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,6,3,8,6
+Family Lawyer,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-8 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,4,4,2
+Criminal Lawyer,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-10 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,9,3,6,5,3
+Contract Specialist,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-12 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,4,5,4,5
+Paralegal,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-14 LPA,Prepare exams|Subject mastery|Field training|Service role,6,3,5,6,7
+Immigration Lawyer,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-10 LPA,Learn programming|Projects|Internship|Specialize,8,4,9,4,4
+Cyber Law Specialist,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-12 LPA,Pre-reqs|Clinical training|Certification|Practice,6,5,5,8,6
+Environmental Lawyer,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-14 LPA,Law basics|Internship|Court practice|Specialize,6,4,4,6,7
+Real Estate Lawyer,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-16 LPA,Practice content|Portfolio|Internship|Publish,4,8,3,8,3
+Litigation Associate,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-18 LPA,Learn business|Projects|Internship|Role growth,6,5,5,7,7
+Legal Operations Manager,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-20 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,5,4,8,5
+Mediation Specialist,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-6 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,3,9,3,5,2
+Trademark Attorney,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-8 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,4,6,4,4
+Patent Analyst,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-10 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,3,6,4,4
+Regulatory Affairs Specialist,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-12 LPA,Prepare exams|Subject mastery|Field training|Service role,7,3,4,7,7
+Ethics Officer,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-14 LPA,Learn programming|Projects|Internship|Specialize,7,5,9,3,5
+Legal Counsel,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-16 LPA,Pre-reqs|Clinical training|Certification|Practice,6,4,6,8,5
+Antitrust Lawyer,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-12 LPA,Law basics|Internship|Court practice|Specialize,7,4,3,7,7
+Consumer Rights Lawyer,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-14 LPA,Practice content|Portfolio|Internship|Publish,3,9,3,7,4
+Human Rights Lawyer,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-16 LPA,Learn business|Projects|Internship|Role growth,6,4,6,7,6
+Corporate Counsel,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-18 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,5,5,3,9,5
+Legal Auditor,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-10 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,3,4,3
+Court Clerk,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-12 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,3,7,4,3
+Journalist,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-8 LPA,Learn finance basics|Certifications|Internship|Analyst role,8,3,5,5,4
+Video Editor,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-10 LPA,Prepare exams|Subject mastery|Field training|Service role,6,4,4,6,8
+Content Strategist,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-12 LPA,Learn programming|Projects|Internship|Specialize,7,4,9,3,4
+Podcast Producer,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-14 LPA,Pre-reqs|Clinical training|Certification|Practice,7,4,5,9,5
+Media Planner,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-16 LPA,Law basics|Internship|Court practice|Specialize,6,5,3,6,8
+News Anchor,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-18 LPA,Practice content|Portfolio|Internship|Publish,3,8,4,7,3
+Film Director,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-14 LPA,Learn business|Projects|Internship|Role growth,7,4,5,8,6
+Script Writer,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-16 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,6,3,8,6
+Cinematographer,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-8 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,4,4,2
+Media Researcher,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-10 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,9,3,6,5,3
+Radio Jockey,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-12 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,4,5,4,5
+Social Media Manager,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-14 LPA,Prepare exams|Subject mastery|Field training|Service role,6,3,5,6,7
+Copywriter,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-10 LPA,Learn programming|Projects|Internship|Specialize,8,4,9,4,4
+Content Creator,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-12 LPA,Pre-reqs|Clinical training|Certification|Practice,6,5,5,8,6
+PR Specialist,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-14 LPA,Law basics|Internship|Court practice|Specialize,6,4,4,6,7
+Broadcast Producer,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-16 LPA,Practice content|Portfolio|Internship|Publish,4,8,3,8,3
+Photojournalist,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-18 LPA,Learn business|Projects|Internship|Role growth,6,5,5,7,7
+TV Producer,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-20 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,5,4,8,5
+Motion Graphics Artist,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-6 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,3,9,3,5,2
+Brand Storyteller,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-8 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,4,6,4,4
+Influencer Manager,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-10 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,3,6,4,4
+Community Manager,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-12 LPA,Prepare exams|Subject mastery|Field training|Service role,7,3,4,7,7
+Creative Producer,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-14 LPA,Learn programming|Projects|Internship|Specialize,7,5,9,3,5
+Editor-in-Chief,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-16 LPA,Pre-reqs|Clinical training|Certification|Practice,6,4,6,8,5
+Content Marketing Manager,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-12 LPA,Law basics|Internship|Court practice|Specialize,7,4,3,7,7
+Publishing Editor,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-14 LPA,Practice content|Portfolio|Internship|Publish,3,9,3,7,4
+Narration Artist,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-16 LPA,Learn business|Projects|Internship|Role growth,6,4,6,7,6
+Sound Designer,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-18 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,5,5,3,9,5
+Digital Reporter,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-10 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,3,4,3
+Advertising Copywriter,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-12 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,3,7,4,3
+Media Buyer,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-8 LPA,Learn finance basics|Certifications|Internship|Analyst role,8,3,5,5,4
+Media Coordinator,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-10 LPA,Prepare exams|Subject mastery|Field training|Service role,6,4,4,6,8
+Video Producer,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-12 LPA,Learn programming|Projects|Internship|Specialize,7,4,9,3,4
+Streaming Producer,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-14 LPA,Pre-reqs|Clinical training|Certification|Practice,7,4,5,9,5
+Business Analyst,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-16 LPA,Law basics|Internship|Court practice|Specialize,6,5,3,6,8
+Product Manager,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-18 LPA,Practice content|Portfolio|Internship|Publish,3,8,4,7,3
+Operations Manager,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-14 LPA,Learn business|Projects|Internship|Role growth,7,4,5,8,6
+Sales Manager,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-16 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,6,3,8,6
+Marketing Manager,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-8 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,4,4,2
+HR Manager,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-10 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,9,3,6,5,3
+Supply Chain Manager,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-12 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,4,5,4,5
+Management Consultant,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-14 LPA,Prepare exams|Subject mastery|Field training|Service role,6,3,5,6,7
+Entrepreneur,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-10 LPA,Learn programming|Projects|Internship|Specialize,8,4,9,4,4
+Customer Success Manager,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-12 LPA,Pre-reqs|Clinical training|Certification|Practice,6,5,5,8,6
+Business Development Manager,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-14 LPA,Law basics|Internship|Court practice|Specialize,6,4,4,6,7
+Quality Manager,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-16 LPA,Practice content|Portfolio|Internship|Publish,4,8,3,8,3
+Project Manager,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-18 LPA,Learn business|Projects|Internship|Role growth,6,5,5,7,7
+Account Executive,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-20 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,5,4,8,5
+Growth Manager,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-6 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,3,9,3,5,2
+Retail Manager,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-8 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,4,6,4,4
+Procurement Manager,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-10 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,3,6,4,4
+Finance Manager,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-12 LPA,Prepare exams|Subject mastery|Field training|Service role,7,3,4,7,7
+Brand Manager,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-14 LPA,Learn programming|Projects|Internship|Specialize,7,5,9,3,5
+CRM Manager,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-16 LPA,Pre-reqs|Clinical training|Certification|Practice,6,4,6,8,5
+Category Manager,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-12 LPA,Law basics|Internship|Court practice|Specialize,7,4,3,7,7
+Strategic Partnerships Manager,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-14 LPA,Practice content|Portfolio|Internship|Publish,3,9,3,7,4
+Pricing Analyst,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-16 LPA,Learn business|Projects|Internship|Role growth,6,4,6,7,6
+Revenue Manager,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-18 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,5,5,3,9,5
+Program Manager,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-10 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,3,4,3
+Risk Manager,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-12 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,3,7,4,3
+Compliance Manager,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-8 LPA,Learn finance basics|Certifications|Internship|Analyst role,8,3,5,5,4
+Investor Relations Manager,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-10 LPA,Prepare exams|Subject mastery|Field training|Service role,6,4,4,6,8
+Corporate Strategy Analyst,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-12 LPA,Learn programming|Projects|Internship|Specialize,7,4,9,3,4
+Chief of Staff,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-14 LPA,Pre-reqs|Clinical training|Certification|Practice,7,4,5,9,5
+Sales Operations Manager,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-16 LPA,Law basics|Internship|Court practice|Specialize,6,5,3,6,8
+Market Research Analyst,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-18 LPA,Practice content|Portfolio|Internship|Publish,3,8,4,7,3
+Strategy Associate,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-14 LPA,Learn business|Projects|Internship|Role growth,7,4,5,8,6
+Business Operations Lead,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-16 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,6,3,8,6
+School Teacher,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-8 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,4,4,2
+College Lecturer,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-10 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,9,3,6,5,3
+Curriculum Designer,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-12 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,4,5,4,5
+Special Education Teacher,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-14 LPA,Prepare exams|Subject mastery|Field training|Service role,6,3,5,6,7
+Career Counselor,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-10 LPA,Learn programming|Projects|Internship|Specialize,8,4,9,4,4
+Trainer,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-12 LPA,Pre-reqs|Clinical training|Certification|Practice,6,5,5,8,6
+Education Administrator,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-14 LPA,Law basics|Internship|Court practice|Specialize,6,4,4,6,7
+Online Tutor,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-16 LPA,Practice content|Portfolio|Internship|Publish,4,8,3,8,3
+Instructional Designer,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-18 LPA,Learn business|Projects|Internship|Role growth,6,5,5,7,7
+Librarian,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-20 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,5,4,8,5
+Exam Coordinator,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-6 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,3,9,3,5,2
+Research Fellow,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-8 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,4,6,4,4
+STEM Teacher,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-10 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,3,6,4,4
+Language Teacher,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-12 LPA,Prepare exams|Subject mastery|Field training|Service role,7,3,4,7,7
+Academic Advisor,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-14 LPA,Learn programming|Projects|Internship|Specialize,7,5,9,3,5
+School Principal,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-16 LPA,Pre-reqs|Clinical training|Certification|Practice,6,4,6,8,5
+Education Consultant,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-12 LPA,Law basics|Internship|Court practice|Specialize,7,4,3,7,7
+Teaching Assistant,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-14 LPA,Practice content|Portfolio|Internship|Publish,3,9,3,7,4
+Learning Experience Designer,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-16 LPA,Learn business|Projects|Internship|Role growth,6,4,6,7,6
+Assessment Specialist,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-18 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,5,5,3,9,5
+Academic Coach,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-10 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,3,4,3
+Corporate Trainer,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-12 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,8,3,7,4,3
+E-learning Specialist,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-8 LPA,Learn finance basics|Certifications|Internship|Analyst role,8,3,5,5,4
+Admissions Officer,Government,Career focused on government with real-world impact.,Policy|Administration|Law|Public Service,5-10 LPA,Prepare exams|Subject mastery|Field training|Service role,6,4,4,6,8
+Dean,Technology,Career focused on technology with real-world impact.,Programming|Problem Solving|Systems|Data Literacy,6-12 LPA,Learn programming|Projects|Internship|Specialize,7,4,9,3,4
+Faculty Development Coordinator,Healthcare,Career focused on healthcare with real-world impact.,Biology|Empathy|Diagnostics|Communication,7-14 LPA,Pre-reqs|Clinical training|Certification|Practice,7,4,5,9,5
+Education Policy Analyst,Law,Career focused on law with real-world impact.,Legal Research|Writing|Advocacy|Negotiation,8-16 LPA,Law basics|Internship|Court practice|Specialize,6,5,3,6,8
+Student Success Manager,Media,Career focused on media with real-world impact.,Communication|Storytelling|Editing|Creativity,9-18 LPA,Practice content|Portfolio|Internship|Publish,3,8,4,7,3
+Placement Officer,Business,Career focused on business with real-world impact.,Strategy|Communication|Analytics|Stakeholder Management,10-14 LPA,Learn business|Projects|Internship|Role growth,7,4,5,8,6
+Learning & Development Manager,Education,Career focused on education with real-world impact.,Teaching|Communication|Patience|Assessment,11-16 LPA,Learn pedagogy|Practice teaching|Certification|Classroom,4,6,3,8,6
+Educational Psychologist,Art,Career focused on art with real-world impact.,Creativity|Design|Visual Thinking|Tool Mastery,2-8 LPA,Learn basics|Master tools|Build portfolio|Internship/Projects,2,9,4,4,2
+Instructional Coach,Science,Career focused on science with real-world impact.,Research|Data Analysis|Critical Thinking|Lab Skills,3-10 LPA,Learn fundamentals|Lab projects|Publish/Present|Advanced studies,9,3,6,5,3
+Subject Matter Expert,Banking,Career focused on banking with real-world impact.,Accounting|Finance|Excel|Risk Analysis,4-12 LPA,Learn finance basics|Certifications|Internship|Analyst role,7,4,5,4,5

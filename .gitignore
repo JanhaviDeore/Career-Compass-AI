@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# environment files
+.env
+
+# Python virtual env
+venv/
+
+# Python cache
+__pycache__/
+
+# ML model cache
+*.pyc
+
+# build folders
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
